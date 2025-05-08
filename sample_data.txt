@@ -1,0 +1,13 @@
+Condition,Replicate,Protein_Digestibility,Enzyme_Activity
+Control,1,65.2,0.45
+Control,2,64.8,0.42
+Control,3,66.1,0.47
+Fermented,1,78.3,0.62
+Fermented,2,77.9,0.65
+Fermented,3,79.2,0.61
+Heated,1,72.5,0.55
+Heated,2,71.8,0.53
+Heated,3,73.4,0.56
+Fermented+Heated,1,85.1,0.72
+Fermented+Heated,2,84.7,0.70
+Fermented+Heated,3,86.0,0.73
