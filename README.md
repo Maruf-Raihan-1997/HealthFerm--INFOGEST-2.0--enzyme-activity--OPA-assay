@@ -5,7 +5,6 @@
 - data_cleaning: Preprocesses digestion data (filtering, summarizing with dplyr).
 - stats_analysis: One-way ANOVA and t-tests to compare protein digestibility.
 - visualizations: Publication quality bar and box plots using ggplot2.
--
 
 # Contact
 maruf.nstu101@gmail.com
